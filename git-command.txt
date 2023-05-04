@@ -1,0 +1,27 @@
+git init: Initializes a new Git repository in the current directory or an empty directory.
+
+git clone: Clones an existing Git repository from a remote server to your local machine.
+
+git add: Adds one or more files to the staging area to be committed.
+
+git commit: Commits changes to the repository with a message describing the changes.
+
+git status: Shows the current status of the repository, including files that have been modified, added, or deleted.
+
+git push: Pushes committed changes to a remote repository, typically on a server.
+
+git pull: Pulls changes from a remote repository and merges them into the local repository.
+
+git branch: Lists all branches in the repository, including the current branch.
+
+git checkout: Switches to a different branch or commits in the repository.
+
+git merge: Merges changes from one branch or commit into another.
+
+git log: Displays a log of all commits made in the repository, including the commit message, author, and date.
+
+git reset: Resets the current branch to a previous commit, optionally discarding all changes made after that commit.
+
+git stash: Temporarily stores changes made to the working directory, allowing you to switch branches or commits without committing or discarding changes.
+
+git tag: Creates a tag at a specific commit, allowing you to mark important milestones or releases in the repository.
