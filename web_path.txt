@@ -1,0 +1,27 @@
+path to becoming a web developer with no prior experience in computers or programming. Here are some steps you can follow:
+
+1.Learn the basics of using a computer: Before you start learning web development, you need to know how to use a computer. 
+This includes basic skills like how to navigate your operating system, how to use a web browser, and how to use a keyboard and mouse.
+
+2.Learn HTML and CSS: HTML and CSS are the building blocks of web development. HTML is used to structure the content on a web page, while CSS is used to style it. 
+There are many resources available online to help you learn HTML and CSS, such as Codecademy and W3Schools.
+
+3.Choose a text editor: A text editor is a software tool that you use to write and edit code. 
+Some popular text editors for web development include Visual Studio Code, Atom, and Sublime Text.
+Choose one that you like and feel comfortable using.
+
+4.Learn JavaScript: JavaScript is the programming language used to add interactivity to web pages. It is an essential skill for web developers. 
+There are many resources available online to help you learn JavaScript, such as Codecademy and freeCodeCamp.
+
+5.Practice, practice, practice: The best way to learn web development is to practice.
+Create your own projects and experiment with different techniques and technologies. 
+Build a personal website or a small web app to showcase your skills.
+
+6.Learn a back-end programming language: Once you are comfortable with HTML, CSS, and JavaScript, you can start learning a back-end programming language. 
+Some popular options include PHP, Python, and Ruby. This will enable you to build more complex web applications that interact with a database.
+
+7.Learn a web framework: A web framework is a collection of tools and libraries that makes it easier to build web applications. 
+Some popular web frameworks include Ruby on Rails, Django, and Laravel. Learning a web framework can help you build web applications more efficiently and with fewer errors.
+
+8.Continue learning: Web development is a constantly evolving field, so it's important to stay up to date with the latest technologies and best practices.
+Read blogs and articles, watch tutorials, and attend conferences to keep your skills sharp.
